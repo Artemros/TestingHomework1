@@ -1,0 +1,10 @@
+<suite name="suite">
+    <test name="test suite">
+        <classes>
+            <class name="hw1.SumTest"/>
+            <class name="hw1.SubTest"/>
+            <class name="hw1.DivTest"/>
+            <class name="hw1.PowTest"/>
+        </classes>
+    </test>
+</suite>
